@@ -8,5 +8,6 @@ I have modified it to avoid some error for today's toolchains. And added Makefil
 
 ## Warning
 
-The Makefile is designed for build .tex file, not this project.
+The Makefile is designed for build .tex file, not this project.  
+
 Usage: make SOURCE=${Your_Tex_File}
