@@ -1,5 +1,8 @@
 # MaxiPlot
 
+Because I have purchased Wolfram Mathematica, this repo will be set to archived.  
+---
+
 This is a fork of the project maxiplot, which provide a way to insert maxima equations into LaTeX code and calculate that.  
 
 About how to write inline maxima code and pnuplot code, please read the original documents at https://maxima.sourceforge.io/contrib/maxiplot/maxiplot_en.pdf .  
